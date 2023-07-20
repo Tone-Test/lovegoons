@@ -1,14 +1,14 @@
 {
-    "name": "LoveGooning",
-    "description": "Get a post of a goon from reddit.",
+    "name": "UserBG",
+    "description": "https://github.com/Discord-Custom-Covers/usrbg#request-your-own-usrbg",
     "authors": [
         {
-            "name": "tonetest",
-            "id": "1117938860375146617"
+            "name": "sapphire",
+            "id": "757982547861962752"
         }
     ],
-    "main": "src/index.ts",
+    "main": "src/index.tsx",
     "vendetta": {
-        "icon": "ic_reaction_smile"
+        "icon": "ic_profile_24px"
     }
 }
