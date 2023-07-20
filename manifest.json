@@ -1,0 +1,14 @@
+{
+    "name": "LoveGooning",
+    "description": "Get a post of a goon from reddit.",
+    "authors": [
+        {
+            "name": "ToneTest",
+            "id": "1117938860375146617"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_reaction_smile"
+    }
+}
